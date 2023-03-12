@@ -8,4 +8,5 @@ labels.txt - labels of the classes
 https://www.kaggle.com/datasets/arkadiyhacks/drinking-waste-classification
 
 
-https://user-images.githubusercontent.com/85027960/224559694-76037075-3371-4edf-b270-cae10a13ec81.PNG
+<img src="https://user-images.githubusercontent.com/85027960/224559694-76037075-3371-4edf-b270-cae10a13ec81.PNG
+" alt="..." width="250" />
