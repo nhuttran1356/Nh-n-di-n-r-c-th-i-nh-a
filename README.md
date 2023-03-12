@@ -7,5 +7,5 @@ YOLO_imgs - images of 4 classes of waste with corresponding txt file (annotation
 labels.txt - labels of the classes
 https://www.kaggle.com/datasets/arkadiyhacks/drinking-waste-classification
 
-https://user-images.githubusercontent.com/85027960/224559694-76037075-3371-4edf-b270-cae10a13ec81.png
+https://user-images.githubusercontent.com/85027960/224559933-c7b71766-baad-4c91-b9ad-1aff17361f59.jpg
 
